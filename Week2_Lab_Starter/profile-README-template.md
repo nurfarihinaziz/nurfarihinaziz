@@ -1,18 +1,15 @@
-# Hi, I'm [Your Name]
+# AI Healthcare Appointment Assistant
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+## Project Summary
 
-## About me
-- Studying: [your programme], UiTM
-- Currently learning: [topics]
-- My FYP area: [your area, or "still deciding"]
+An AI-powered healthcare appointment management system designed to help patients find doctors, schedule medical appointments, and receive assistance through an intelligent chatbot.
 
-## Skills and tools
-[List what you know. Example: Python, Git, SQL]
+## Problem Statement
 
-## Projects
-- [Project name](link-to-your-repository): one sentence about it
+Many healthcare facilities still rely on traditional appointment booking methods, making it difficult for patients to schedule and manage their medical appointments efficiently. Patients often experience difficulties finding available appointment slots, while clinic staff face administrative challenges such as scheduling conflicts, double bookings, and appointment cancellations. These issues increase waiting times, create additional workloads, and reduce patient satisfaction. Therefore, an AI Healthcare Appointment Assistant is proposed to simplify appointment scheduling, provide intelligent appointment assistance, and improve the overall efficiency of healthcare appointment management.
 
-## Contact
-- LinkedIn: [your profile link]
-- Email: [a professional email address]
+## Project Documentation
+
+- [Problem Statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User Stories](docs/user-stories.md)
