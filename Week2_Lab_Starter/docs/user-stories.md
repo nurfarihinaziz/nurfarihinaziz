@@ -1,6 +1,5 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
 
 1. As a patient, I want to search for available doctors and appointment slots, so that I can choose a suitable doctor and convenient appointment time.
 
