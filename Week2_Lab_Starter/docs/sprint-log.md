@@ -3,23 +3,25 @@
 ## Sprint 1 (Week 3 lab)
 
 ### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
+To set up my GitHub Codespaces environment, practise basic Git commands, and organise the project files for my AI Healthcare Appointment Assistant.
 
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | To do |
-| #2 | | To do |
-| #3 | | To do |
+| #1 | Set up GitHub Codespaces and configure Git username and email. | Done |
+| #2 | Explore the repository structure and practise basic Git commands. | To do |
+| #3 | Create and organise the required project files and folders. | To do |
 
 ### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
-- Standup 2: [what I did / what is next / any blocker]
+- Standup 1: I will set up my GitHub Codespaces environment and configure my Git username and email. One possible blocker is entering Git commands incorrectly or having configuration errors.
+- Standup 2: I have started configuring Git and setting up my Codespaces environment. Next, I will explore the repository structure, practise Git commands, and organise my project files. My main challenge is understanding the correct Git command syntax.
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+I worked on setting up my GitHub Codespaces environment and configuring Git for my AI Healthcare Appointment Assistant project. I also started exploring the repository and learning how to use the terminal. I demonstrated my project setup and discussed my progress with a classmate.
 
 ### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+1. What went well: I successfully opened GitHub Codespaces and learned how to configure my Git username and email.
+
+2. What was difficult: I successfully opened GitHub Codespaces and learned how to configure my Git username and email.
+
+3. What I will change next time: I will check Git command syntax carefully before executing commands and practise using the terminal more frequently.
